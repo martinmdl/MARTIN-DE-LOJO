@@ -1,20 +1,32 @@
+
 # Database Management System
-Autor: Martín Michael De Lojo
 
-Fecha de entrega: 08/11/2022
+## Description
+This is a data management app.
+In this case, it helps the user to log every aspect of a sport competition.
+In order to accomplish that task, it uses files inside the same directory.
+The user is capable of creating, migrating and showing on screen all the competitors' data.
+There are also a menu, visual guides and validations that make it easy to navigate through the app.
+In addition, it captures errors and detail them on screen, non of them ends on an app or files failure.
+## Authors
 
-Fecha límite: 10/11/2022
+- [@martinmdl](https://www.github.com/martinmdl)
 
-Archivos:
-- MARTIN DE LOJO/main.c
-- MARTIN DE LOJO/headers/auxfiles.h
-- MARTIN DE LOJO/headers/files.h
-- MARTIN DE LOJO/headers/menus.h
-- MARTIN DE LOJO/headers/validations.h
-Descripción del programa:
 
-Esta aplicación es un sistema de gestión de datos. En este caso, permite al usuario llevar registro de una competencia deportiva. Para eso opera con archivos dentro del mismo directorio. Sin necesidad de salir de la app y entrar en la carpeta, el usuario es capaz de crear, migrar, y mostrar en pantalla datos de los competidores. Además, el usuario cuenta siempre con un menú de opciones, guías y validaciones para cualquier tipo de entrada que efectúe. También captura errores y los detalla en pantalla, ninguno de éstos provoca un cierre del programa, ni fallos en los archivos.
+## Acknowledgements
 
-- El único archivo que viene con el programa es "corredores_v1.csv".
-- La app permitirá crear un archivo binario llamado "competidores.dat".
-- Y al eliminar datos de "competidores.dat" se crearan registros ".xyz" con la fecha correspondiente a la baja detallada en el nombre.
+This app was developed as a first year final project in UNSAM (Universidad Nacional De San Martín)
+
+## Demo
+
+Insert gif or link to demo
+
+
+## Deployment
+
+To deploy this project run
+
+```bash
+  npm run deploy
+```
+
