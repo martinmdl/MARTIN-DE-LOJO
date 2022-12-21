@@ -12,7 +12,6 @@ In addition, it captures errors and detail them on screen, non of them ends on a
 ![1.png](https://i.postimg.cc/1zm37QM2/1.png)
 
 This app was developed as a first year final project in UNSAM (Universidad Nacional De San Martín)
-
 If you have any feedback, please reach out to me at martinmdl42@gmail.com
 
 ## 👨‍💻 Authors
