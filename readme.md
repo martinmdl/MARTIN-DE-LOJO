@@ -21,9 +21,10 @@ If you have any feedback, please reach out to me at martinmdl42@gmail.com
 
 ## 💾 Download
 
-- [*Click here*](https://drive.google.com/file/d/1svxb5j8_D5Bj18EemACtEvYo1DC-UTGI/view?usp=sharing) to access the directory
+- [*Click here*](https://drive.google.com/file/d/1LuKEnUGgVwC07CcB907NVAGmoH_11puW/view?usp=sharing) to access the directory
 - Download the *rar* file
-- Execute *main.exe*
+- Extract the content in a folder
+- Run *main.exe*
 
 ## 🔗 Links
 
