@@ -9,14 +9,12 @@ The user is capable of creating, migrating and showing on screen all the competi
 There are also a menu, visual guides and validations that make it easy to navigate through the app.
 In addition, it captures errors and detail them on screen, non of them ends on an app or files failure.
 
-![1.png](https://i.postimg.cc/1zm37QM2/1.png)
-
-This app was developed as a first year final project in UNSAM (Universidad Nacional De San Martín)
+This app was developed as a first year final project in UNSAM (Universidad Nacional De San Martín).
 If you have any feedback, please reach out to me at martinmdl42@gmail.com
 
 ## 👨‍💻 Authors
 
-- [@martinmdl](https://www.github.com/martinmdl)
+- Martín Michael De Lojo ([GitHub](https://www.github.com/martinmdl) - [LinkedIn](https://www.linkedin.com/in/martinmdl/))
 
 ## 💾 Download
 
@@ -25,6 +23,6 @@ If you have any feedback, please reach out to me at martinmdl42@gmail.com
 - Extract the content in a folder
 - Run *main.exe*
 
-## 🔗 Links
+## 🕹️ Demo
 
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/martinmdl/)
+![1.png](https://i.postimg.cc/1zm37QM2/1.png)
