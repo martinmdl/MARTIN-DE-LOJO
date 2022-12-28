@@ -1,7 +1,5 @@
 # DBManager
 
-![total lines](https://img.shields.io/tokei/lines/GitHub/martinmdl/file-database-management-system?logo=GitHub)
-
 ## 📃 Description
 
 This is a data management app.
