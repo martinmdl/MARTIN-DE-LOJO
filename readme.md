@@ -25,4 +25,6 @@ If you have any feedback, please reach out to me at martinmdl42@gmail.com
 
 ## 🕹️ Demo
 
-![1.png](https://i.postimg.cc/1zm37QM2/1.png)
+<img src="https://i.postimg.cc/1zm37QM2/1.png" width="800" />
+<img src="https://i.postimg.cc/fW70W1LY/2a.png" width="800" />
+<img src="https://i.postimg.cc/5NxQXpYT/2b.png" width="800" />
