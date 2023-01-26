@@ -9,7 +9,7 @@ The user is capable of creating, migrating and showing on screen all the competi
 There are also a menu, visual guides and validations that make it easy to navigate through the app.
 In addition, it captures errors and detail them on screen, non of them ends on an app or files failure.
 
-This app was developed as a first year final project in UNSAM (Universidad Nacional De San Martín).
+This app was developed as a first year individual final project in UNSAM (Universidad Nacional De San Martín).
 If you have any feedback, please reach out to me at martinmdl42@gmail.com
 
 ## 👨‍💻 Authors
