@@ -7,7 +7,7 @@ In this case, it helps the user to log every aspect of a sport competition.
 In order to accomplish that task, it uses files inside the same directory.
 The user is capable of creating, migrating and showing on screen all the competitors' data.
 There are also a menu, visual guides and validations that make it easy to navigate through the app.
-In addition, it captures errors and detail them on screen, none of them ends on an app or files failure.
+In addition, it captures errors and details them on screen, none of them ends on an app or files failure.
 
 This app was developed as a first year individual final project in UNSAM (Universidad Nacional De San Martín).
 If you have any feedback, please reach out to me at martinmdl42@gmail.com
