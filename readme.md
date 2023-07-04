@@ -14,7 +14,7 @@ If you have any feedback, please reach out to me at martinmdl42@gmail.com
 
 ## 👨‍💻 Authors
 
-- Martín Michael De Lojo ([GitHub](https://www.github.com/martinmdl) - [LinkedIn](https://www.linkedin.com/in/martinmdl/))
+- Martín De Lojo ([GitHub](https://www.github.com/martinmdl) - [LinkedIn](https://www.linkedin.com/in/martinmdl/))
 
 ## 💾 Download
 
